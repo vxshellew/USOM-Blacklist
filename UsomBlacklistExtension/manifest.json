@@ -1,0 +1,12 @@
+{
+   "manifest_version": 2,
+   "name": "Usom BlackList @Bayraktar @OnurSavas",
+   "version": "1.0",
+   "permissions": [
+       "webNavigation",
+       "notifications"
+   ],
+   "background": {
+       "scripts": ["background.js"]
+   }
+}
