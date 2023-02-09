@@ -15,7 +15,7 @@ function checkBlacklist(domain) {
             var lines = xhr.responseText.split('\n');
             for (var i = 0; i < lines.length; i++) {
                 if (domain === lines[i]) {
-                    alert("Bu Domain Ulusal Siber Olaylara Müdahale Merkezi (USOM) Zararlı Bağlantılar Listesinde yer Almaktadır!");
+                    alert("Girmiş Olduğunuz Bu Site Ulusal Siber Olaylara Müdahale Merkezi (USOM) Zararlı Bağlantılar Listesinde yer Almaktadır!");
                     break;
                 }
             }
