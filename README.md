@@ -15,6 +15,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 
 ``` onursavas0534@gmail.com ```
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+``` https://www.linkedin.com/in/onur-savas/ ```
 
-[linkedin-url]: https://www.linkedin.com/in/onur-savas/
+``` https://www.linkedin.com/in/%C3%B6-b-a8a9121b0/ ```
+
