@@ -6,6 +6,14 @@ USOM, ülkemizdeki siber olaylara müdahale konusunda ulusal ve uluslararası ko
 
 Ayrıca yapılan siber güvenlik çalışmaları esnasında konusu suç teşkil eden bulgular ile karşılaşılması halinde adli makamlar ve kolluk kuvvetleri ile koordinasyon içerisinde hareket eder.
 
+Aşağıda Eklentiyi nasıl tarayıcınıza ekleyeceğinizi ve nasıl çalıştığına dair video var izleyebilirsiniz.
+
+### Eklentiden Bir Video
+
+
+https://user-images.githubusercontent.com/124740638/217935613-9c8af6ec-bacf-43ae-9a51-4eaeae20035e.mp4
+
+
 
 ## License / Lisans
 
