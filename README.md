@@ -2,9 +2,7 @@
 USOM(Ulusal Siber Olaylara Müdahale Merkezi Kara Liste Uygulaması
 
 ### Ne işe yarar?
-USOM, ülkemizdeki siber olaylara müdahale konusunda ulusal ve uluslararası koordinasyon çalışmaları 7/24 çalışma esasına göre yürütülür. Bu çalışmalar sonucunda ortaya çıkan zararlı siteler tespit edilerek kamuoyuna sunulur. Kamuoyu oluşturma, adına bulunan zararlı bağlantılar https://www.usom.gov.tr/adres adresinde paylaşılır.
-
-Ayrıca yapılan siber güvenlik çalışmaları esnasında konusu suç teşkil eden bulgular ile karşılaşılması halinde adli makamlar ve kolluk kuvvetleri ile koordinasyon içerisinde hareket eder.
+USOM, ülkemizdeki siber olaylara müdahale konusunda ulusal ve uluslararası koordinasyon çalışmaları 7/24 çalışma esasına göre yürütülür. Bu çalışmalar sonucunda ortaya çıkan zararlı siteler tespit edilir. Zararlı bağlantılar https://www.usom.gov.tr/adres adresinde paylaşılır. Bu paylaşılan Zararlı Sitelere girdiğiniz zaman bu site zararlıdır uyarısı veren bir eklentidir.
 
 Aşağıda Eklentiyi nasıl tarayıcınıza ekleyeceğinizi ve nasıl çalıştığına dair video var izleyebilirsiniz.
 
