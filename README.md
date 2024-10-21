@@ -19,7 +19,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 
 ## İletişim / Contact
 
-``` onursavas0534@gmail.com ```
+``` onursavas0505@gmail.com ```
 
 ``` https://www.linkedin.com/in/onur-savas/ ```
 
